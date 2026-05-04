@@ -1,10 +1,10 @@
 {
   "domain": "avaccess_matrix",
   "name": "AV Access HDMI Matrix",
-  "version": "1.0.0",
-  "documentation": "https://github.com/Hackencrash/avaccess_matrix",
-  "issue_tracker": "https://github.com/Hackencrash/avaccess_matrix/issues",
   "codeowners": ["@Hackencrash"],
+  "config_flow": true,
+  "documentation": "https://github.com/Hackencrash/avaccess_matrix",
   "iot_class": "local_polling",
-  "config_flow": true
+  "issue_tracker": "https://github.com/Hackencrash/avaccess_matrix/issues",
+  "version": "1.0.0"
 }
