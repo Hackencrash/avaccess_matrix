@@ -1,0 +1,3 @@
+DOMAIN = "avaccess_matrix"
+DEFAULT_PORT = 23
+SCAN_INTERVAL = 30
