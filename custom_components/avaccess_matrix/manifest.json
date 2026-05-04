@@ -1,0 +1,10 @@
+{
+  "domain": "avaccess_matrix",
+  "name": "AV Access HDMI Matrix",
+  "version": "1.0.0",
+  "documentation": "https://avaccess.com/",
+  "requirements": [],
+  "codeowners": [],
+  "iot_class": "local_polling",
+  "config_flow": true
+}
